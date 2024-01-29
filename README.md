@@ -11,7 +11,7 @@ McDonald's is a global fast-food chain known for its diverse menu offerings. As 
   - Perform exploratory data analysis to understand the nutritional distribution and trends.
   - Create visualizations to present the calorie count and nutrition facts of different menu items.
   - Identify healthy and less healthy menu options based on nutritional content.
-   
+
 4. Analysing and Understanding Data
 
 5.Handle missing values and data cleaning
